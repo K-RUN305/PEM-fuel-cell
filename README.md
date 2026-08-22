@@ -1,2 +1,3 @@
 # PEM-fuel-cell
 Design of a 5 kW electrical power generation unit via PEM-fuel cell, utilizing steam methane reforming for hydrogen generation (MATLAB)
+Design of a 5 kW electrical power generation unit via PEM-fuel cell, utilizing steam methane reforming for hydrogen generation (MATLAB). A MATLAB code was written to determine the demand of Hydrogen of the Fuel cell. Optimized value of operating temperature, current density, cell area and number of fuel cells were determined. i-V characteristics and efficiency v/s current density plot was generated at different operating temperatures for analysis. A steam methane reformer was also designed for Hydrogen generation and was coupled with the fuel cell
